@@ -1,0 +1,5 @@
+Sample,Estimate,Standard error,p-value
+Full sample,0.063,0.577,0.912
+Men,-0.209,0.653,0.748
+Women,0.302,0.582,0.604
+Women - Men,0.494,0.231,0.032
