@@ -1,5 +1,7 @@
 rm(list = ls())
 
+source("setup.R", echo = TRUE)
+
 source("01_Data.R", echo = TRUE)
 
 source("02_Empirical.R", echo = TRUE)
